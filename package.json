@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "sapper-test",
+  "description": "Testing automatic deployment of a Sapper PWA to GitHub Pages",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
